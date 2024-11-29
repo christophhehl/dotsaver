@@ -1,0 +1,12 @@
+SoftwareWidget {
+    margin: -1 1 -1 1;
+    min-width: 50;
+    padding: 1;
+}
+
+Button {
+    content-align: center middle;
+    width: 25;
+    height: 3;
+    margin: 1;
+}
